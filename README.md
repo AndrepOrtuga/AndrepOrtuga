@@ -1,4 +1,4 @@
-### Olá, mundo! Eu sou o André Portugal! 🖥️
+### Hello, world! I'm André Portugal, a tech enthusiast on a journey to master programming languages and build innovative solutions. Always learning, always creating!  🖥️
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/oandreportugall/) 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andré-augusto-portugal-6959422b1/) 
